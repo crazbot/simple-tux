@@ -176,7 +176,7 @@ ins{color:green}
 .post_link .prev{float:left;padding:5px 0 5px 15px}
 .post_link .next{float:right;padding:5px 15px 5px 15px}
 #comments{margin-right:340px;margin-bottom:20px;background-color:#FFF;box-shadow:0 1px 2px 0 #CCC;overflow:hidden;padding:4px 10px;border:1px solid #ddd;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px}
-#comments h3{border-bottom:1px dashed #CCC;padding:4px 0px 4px 3px;margin:6px;}
+#comments h3{border-bottom:1px dashed #CCC;padding:4px 0px 4px 0px;margin:0px;}
 .comment_list{margin:5px 3px;}
 .avatar{float:left;width:36px;margin:4px 4px 0 0;}
 .comment-s{overflow:hidden;}
